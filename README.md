@@ -36,8 +36,8 @@
 
 <h4 align="center">SOFTWARE</h4>
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google Colab logo"  />
-    <img width="12" />
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google Colab logo"  />
+    <img width="12" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo"  />
